@@ -1,0 +1,17 @@
+零件1数据/
+零件2数据/
+零件3数据/
+build/*
+.git/
+.idea/
+all_test_data/
+点云数据.zip
+零件2数据.zip
+零件3数据.zip
+数据.zip
+*.exe
+*.whl
+*.ply
+part1/
+.idea/
+__pycache__/
